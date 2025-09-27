@@ -1,4 +1,4 @@
-package com.smartgateway.upi.smartgateway;
+package com.smartgateway.upi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

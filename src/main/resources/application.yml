@@ -1,0 +1,17 @@
+
+upi:
+  bankUrl: "https://api.bank.com/upi/collect"
+  statusUrl: "https://api.bank.com/upi/status"
+  merchantId: "MERCHANT123"
+  apiKey: "YOUR_BANK_API_KEY"
+
+spring:
+  application:
+    name: smartgateway
+  mail:
+    host: smtp.yourmail.com
+    port: 587
+    username: your-email@example.com
+    password: email-password
+    properties.mail.smtp.auth: true
+    properties.mail.smtp.starttls.enable: true
